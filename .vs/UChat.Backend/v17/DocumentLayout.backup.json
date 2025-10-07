@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prjcts\\UChat\\UChat.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9A543E-FD49-45B9-8078-6F0DC4D2A889}|ChatService.Infrastructure\\ChatService.Infrastructure.csproj|d:\\prjcts\\uchat\\uchat.backend\\chatservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9A543E-FD49-45B9-8078-6F0DC4D2A889}|ChatService.Infrastructure\\ChatService.Infrastructure.csproj|solutionrelative:chatservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4753F057-907F-4A39-8208-7A9C29E4AFBA}|ChatService.Application\\ChatService.Application.csproj|d:\\prjcts\\uchat\\uchat.backend\\chatservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4753F057-907F-4A39-8208-7A9C29E4AFBA}|ChatService.Application\\ChatService.Application.csproj|solutionrelative:chatservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD22F4A-0DFC-4F2F-B181-841BA85AC0EF}|ChatService.Domain\\ChatService.Domain.csproj|d:\\prjcts\\uchat\\uchat.backend\\chatservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD22F4A-0DFC-4F2F-B181-841BA85AC0EF}|ChatService.Domain\\ChatService.Domain.csproj|solutionrelative:chatservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Prjcts\\UChat\\UChat.Backend\\ChatService.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ChatService.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Prjcts\\UChat\\UChat.Backend\\ChatService.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ChatService.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:22:51.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Prjcts\\UChat\\UChat.Backend\\ChatService.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "ChatService.Application\\Class1.cs",
+              "ToolTip": "D:\\Prjcts\\UChat\\UChat.Backend\\ChatService.Application\\Class1.cs",
+              "RelativeToolTip": "ChatService.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:22:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Prjcts\\UChat\\UChat.Backend\\ChatService.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ChatService.Domain\\Class1.cs",
+              "ToolTip": "D:\\Prjcts\\UChat\\UChat.Backend\\ChatService.Domain\\Class1.cs",
+              "RelativeToolTip": "ChatService.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:21:40.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
